@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jma@as3p.be
+	name = Jean-Marc ANDRE
